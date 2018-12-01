@@ -1,2 +1,4 @@
 target
 geckodriver
+chromedriver
+test-output/
